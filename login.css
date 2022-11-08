@@ -4,6 +4,11 @@
     font-family: 'Ubuntu', sans-serif;
 }
 
+body {
+    background-color: #161717;
+    color: white;
+}
+
 .container {
     margin: auto;
     display: flex;
